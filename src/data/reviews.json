@@ -1,1 +1,26 @@
-[{"comment":"A good book but definitely I don't like many parts of the plot","rate":3,"productId":"ek26t1yt1lesllnzk","createdAt":"2023-03-03T14:54:51.045Z","updatedAt":"2023-03-03T14:54:51.045Z","id":"ek26t241nlesnpw9y"},{"comment":"test","rate":3,"productId":"ek26t1yt1lesllnzk","createdAt":"2023-03-03T14:55:17.914Z","updatedAt":"2023-03-03T14:55:17.914Z","id":"ek26t241nlesnqh0a"}]
+[
+  {
+    "comment": "i like this product",
+    "rate": 3,
+    "productId": "ek26t1xrdlesikub0",
+    "createdAt": "2023-03-03T15:15:40.738Z",
+    "updatedAt": "2023-03-03T15:15:40.738Z",
+    "id": "ek26t24n8lesogojn"
+  },
+  {
+    "comment": "i really like this product",
+    "rate": 5,
+    "productId": "ek26t1xrdlesikub0",
+    "createdAt": "2023-03-03T15:15:48.953Z",
+    "updatedAt": "2023-03-03T15:15:48.953Z",
+    "id": "ek26t24n8lesoguvt"
+  },
+  {
+    "comment": "i don't really like this product",
+    "rate": 1,
+    "productId": "ek26t1xrdlesikub0",
+    "createdAt": "2023-03-03T15:15:59.255Z",
+    "updatedAt": "2023-03-03T15:15:59.255Z",
+    "id": "ek26t24n8lesoh2tz"
+  }
+]
